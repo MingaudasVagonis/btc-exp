@@ -1,0 +1,9 @@
+# Folders that match name:
+node_modules/
+build/
+.git/ 
+
+# Files that extend: 
+**/.log
+**/.lock
+**/.DS_Store
