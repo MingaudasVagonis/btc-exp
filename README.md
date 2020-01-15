@@ -1,6 +1,6 @@
 # btc-exp
 
-## **Bitcoin blockchain explorer (with [bcoin](https://github.com/bcoin-org/bcoin) node)**
+## **Bitcoin blockchain explorer (React + Node + Express + [Bcoin](https://github.com/bcoin-org/bcoin))**
 
 ![Example](https://media.giphy.com/media/hStxDz52jzj0hdYVI3/giphy.gif)
 
