@@ -13,7 +13,6 @@ app.use(bodyParser.urlencoded({
   extended: true
 }))
 
-
 routes(app)
 
 app.use(bodyParser.json())
