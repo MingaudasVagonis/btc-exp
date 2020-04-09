@@ -4,6 +4,7 @@
 
 ![Example](https://media.giphy.com/media/hStxDz52jzj0hdYVI3/giphy.gif)
 
+Project is purely for demonstration purposes.
 ### Installation
 
 ```
